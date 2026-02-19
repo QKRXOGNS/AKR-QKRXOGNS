@@ -1,12 +1,12 @@
 {
   "version": "1.0.0",
-  "createdAt": "2026-02-19T10:08:46.961Z",
-  "updatedAt": "2026-02-19T10:08:46.961Z",
+  "createdAt": "2026-02-19T10:13:12.595Z",
+  "updatedAt": "2026-02-19T10:13:12.595Z",
   "projectPath": "c:\\Users\\pk\\Desktop\\Moneybot",
   "totalFiles": 54,
   "entries": [
     {
-      "id": "58f53982-316d-48a1-ac1a-0b0035b6abf5",
+      "id": "832e9dd4-6561-43ec-bbca-4fb32105ef4e",
       "filePath": "packages\\cli\\src\\commands\\fund.ts",
       "fileName": "fund.ts",
       "fileExtension": ".ts",
@@ -23,7 +23,7 @@
       "lineCount": 114
     },
     {
-      "id": "2b5ad877-962b-4598-87f9-8963e414e2e7",
+      "id": "d1025350-cfa8-4eef-8fb9-9ba52c9bb52b",
       "filePath": "packages\\cli\\src\\commands\\logs.ts",
       "fileName": "logs.ts",
       "fileExtension": ".ts",
@@ -41,7 +41,7 @@
       "lineCount": 52
     },
     {
-      "id": "a4608e4b-1cb5-4795-b160-99ef37084c8a",
+      "id": "4164ffb4-8c05-4413-afec-0cc1bf238dee",
       "filePath": "packages\\cli\\src\\commands\\send.ts",
       "fileName": "send.ts",
       "fileExtension": ".ts",
@@ -61,7 +61,7 @@
       "lineCount": 72
     },
     {
-      "id": "31a5f378-266b-4d75-9157-9f56e76f8f9b",
+      "id": "d83507d4-6079-420e-ad31-d9f56012f3c2",
       "filePath": "packages\\cli\\src\\commands\\status.ts",
       "fileName": "status.ts",
       "fileExtension": ".ts",
@@ -79,7 +79,7 @@
       "lineCount": 48
     },
     {
-      "id": "007e6d89-f112-4940-8634-e8030c9fa4b7",
+      "id": "c65ff4fc-c62e-4e0c-9260-6d4c60b6ebfb",
       "filePath": "packages\\cli\\src\\index.ts",
       "fileName": "index.ts",
       "fileExtension": ".ts",
@@ -94,7 +94,7 @@
       "lineCount": 43
     },
     {
-      "id": "f549eb2d-c89b-4d94-9c23-84d764c8a415",
+      "id": "f9fc729d-c127-4f4e-983a-416210dbe239",
       "filePath": "packages\\cli\\src\\node-shims.d.ts",
       "fileName": "node-shims.d.ts",
       "fileExtension": ".ts",
@@ -109,7 +109,7 @@
       "lineCount": 6
     },
     {
-      "id": "eef260f9-09ce-4803-9527-a31ebc2834d7",
+      "id": "28beac8b-3161-4478-8503-40caba7296c7",
       "filePath": "packages\\cli\\src\\runtime-shims.d.ts",
       "fileName": "runtime-shims.d.ts",
       "fileExtension": ".ts",
@@ -134,7 +134,7 @@
       "lineCount": 57
     },
     {
-      "id": "a146fea5-4a44-479a-8f69-32c34d099636",
+      "id": "4210deed-9557-4e3e-8008-c9c2c6562f0d",
       "filePath": "src\\agent\\context.ts",
       "fileName": "context.ts",
       "fileExtension": ".ts",
@@ -152,7 +152,7 @@
       "lineCount": 146
     },
     {
-      "id": "72c844e4-c449-49b5-976c-cc7ca275a650",
+      "id": "c970cef6-180f-405d-a1aa-fb1e5a57f6fa",
       "filePath": "src\\agent\\injection-defense.ts",
       "fileName": "injection-defense.ts",
       "fileExtension": ".ts",
@@ -171,7 +171,7 @@
       "lineCount": 270
     },
     {
-      "id": "7bf6af24-5ee1-4a4a-bfa2-95211f097212",
+      "id": "fd0001f8-20a9-4f8d-98b0-7b3a4c5cbe68",
       "filePath": "src\\agent\\loop.ts",
       "fileName": "loop.ts",
       "fileExtension": ".ts",
@@ -194,7 +194,7 @@
       "lineCount": 364
     },
     {
-      "id": "13069db8-1509-40dc-b0a5-d2b15c29d2ce",
+      "id": "a4e1302c-46b7-4a14-a13b-bf77a0988b7e",
       "filePath": "src\\agent\\system-prompt.ts",
       "fileName": "system-prompt.ts",
       "fileExtension": ".ts",
@@ -217,7 +217,7 @@
       "lineCount": 313
     },
     {
-      "id": "72aa5600-bd99-4fb9-a77a-a819c43de97c",
+      "id": "3e03ad42-874d-43ad-b183-fd5e6cfdaca4",
       "filePath": "src\\agent\\tools.ts",
       "fileName": "tools.ts",
       "fileExtension": ".ts",
@@ -235,7 +235,7 @@
       "lineCount": 1566
     },
     {
-      "id": "f649011b-e891-4ce9-a5e8-a800f79e5bf4",
+      "id": "f97691cb-a06a-414b-b935-abe272447f06",
       "filePath": "src\\config.ts",
       "fileName": "config.ts",
       "fileExtension": ".ts",
@@ -263,7 +263,7 @@
       "lineCount": 107
     },
     {
-      "id": "61a0d9e0-856f-477d-935d-f8a68e96d262",
+      "id": "d7a9cc4d-3d0b-47e0-8688-124009ce290e",
       "filePath": "src\\conway\\client.ts",
       "fileName": "client.ts",
       "fileExtension": ".ts",
@@ -280,7 +280,7 @@
       "lineCount": 370
     },
     {
-      "id": "9db9e987-1f5b-4a8e-a10a-77e9d21b908d",
+      "id": "81e25493-644e-4278-9b6c-969f77c561f9",
       "filePath": "src\\conway\\credits.ts",
       "fileName": "credits.ts",
       "fileExtension": ".ts",
@@ -301,7 +301,7 @@
       "lineCount": 81
     },
     {
-      "id": "4a2ba872-49b7-4712-a44a-7aceb2f1aaaa",
+      "id": "99b1717f-46dc-4de7-aaf9-fff846700725",
       "filePath": "src\\conway\\inference.ts",
       "fileName": "inference.ts",
       "fileExtension": ".ts",
@@ -318,7 +318,7 @@
       "lineCount": 154
     },
     {
-      "id": "56381fdc-e039-484c-9d54-6ab56aaeb114",
+      "id": "31e0dccf-e389-4844-a135-94cf9552eb4a",
       "filePath": "src\\conway\\x402.ts",
       "fileName": "x402.ts",
       "fileExtension": ".ts",
@@ -337,7 +337,7 @@
       "lineCount": 448
     },
     {
-      "id": "493c9d02-44d6-4c8e-997a-725ba9275c73",
+      "id": "967e50b0-8733-49ee-a557-688af798e157",
       "filePath": "src\\git\\state-versioning.ts",
       "fileName": "state-versioning.ts",
       "fileExtension": ".ts",
@@ -355,7 +355,7 @@
       "lineCount": 145
     },
     {
-      "id": "90881a37-583d-49e0-9303-17978aa43a47",
+      "id": "cebe1a98-64e3-4607-81d0-cde4eb411924",
       "filePath": "src\\git\\tools.ts",
       "fileName": "tools.ts",
       "fileExtension": ".ts",
@@ -372,7 +372,7 @@
       "lineCount": 218
     },
     {
-      "id": "f926ecb9-1a32-4b81-a855-47824b4139a8",
+      "id": "30ff074d-3f09-49c5-bb22-266cc244bbba",
       "filePath": "src\\heartbeat\\config.ts",
       "fileName": "config.ts",
       "fileExtension": ".ts",
@@ -398,7 +398,7 @@
       "lineCount": 176
     },
     {
-      "id": "9b7694e6-7a92-4241-a704-3414ef83c5db",
+      "id": "60e7fe11-1edb-4f6d-98fa-77b64c7105f0",
       "filePath": "src\\heartbeat\\daemon.ts",
       "fileName": "daemon.ts",
       "fileExtension": ".ts",
@@ -421,7 +421,7 @@
       "lineCount": 189
     },
     {
-      "id": "b4ad2ec7-f4d4-44b4-9c7f-a83eb0f15d49",
+      "id": "d4ae2347-5f15-45b9-a043-ba984d390566",
       "filePath": "src\\heartbeat\\tasks.ts",
       "fileName": "tasks.ts",
       "fileExtension": ".ts",
@@ -443,7 +443,7 @@
       "lineCount": 201
     },
     {
-      "id": "6ddc43ae-9a02-4856-8ff9-0ad0aae747f8",
+      "id": "784d463a-7482-4221-bf7c-47db667237f8",
       "filePath": "src\\identity\\provision.ts",
       "fileName": "provision.ts",
       "fileExtension": ".ts",
@@ -466,7 +466,7 @@
       "lineCount": 169
     },
     {
-      "id": "a148f0b4-8bc3-4e36-bd02-3dc9655d7dad",
+      "id": "7f4b6dce-240b-4d88-b60a-efec1e95175d",
       "filePath": "src\\identity\\wallet.ts",
       "fileName": "wallet.ts",
       "fileExtension": ".ts",
@@ -493,7 +493,7 @@
       "lineCount": 96
     },
     {
-      "id": "91b4e7e2-e1c5-4c14-86eb-de5a9b01334f",
+      "id": "674f4a65-dfa0-43ae-81c6-a6e2d1143849",
       "filePath": "src\\index.ts",
       "fileName": "index.ts",
       "fileExtension": ".ts",
@@ -521,7 +521,7 @@
       "lineCount": 357
     },
     {
-      "id": "f85d7682-9d23-4f8f-a900-65b669e29198",
+      "id": "bfc9b39c-2c11-4780-882f-c61f878ca245",
       "filePath": "src\\registry\\agent-card.ts",
       "fileName": "agent-card.ts",
       "fileExtension": ".ts",
@@ -541,7 +541,7 @@
       "lineCount": 132
     },
     {
-      "id": "eed573e0-f344-467d-8a52-3445a605d4d3",
+      "id": "d52cb911-94ba-4708-91bc-0ec9f475d310",
       "filePath": "src\\registry\\discovery.ts",
       "fileName": "discovery.ts",
       "fileExtension": ".ts",
@@ -558,7 +558,7 @@
       "lineCount": 100
     },
     {
-      "id": "ee5ba932-6cfa-46fe-a889-cbdddc4541f5",
+      "id": "d74e5c21-6901-47f9-80b2-bf8f03c44145",
       "filePath": "src\\registry\\erc8004.ts",
       "fileName": "erc8004.ts",
       "fileExtension": ".ts",
@@ -575,7 +575,7 @@
       "lineCount": 281
     },
     {
-      "id": "60a37ecb-67a9-4e76-a3d8-d30fe5d932bc",
+      "id": "b17fe111-98fc-4265-8b86-58485c628797",
       "filePath": "src\\replication\\genesis.ts",
       "fileName": "genesis.ts",
       "fileExtension": ".ts",
@@ -594,7 +594,7 @@
       "lineCount": 105
     },
     {
-      "id": "05fb345c-d148-43d1-82da-f534856d0c3e",
+      "id": "cabac84b-3fbe-4b73-9f9c-3cb9329921c6",
       "filePath": "src\\replication\\lineage.ts",
       "fileName": "lineage.ts",
       "fileExtension": ".ts",
@@ -614,7 +614,7 @@
       "lineCount": 121
     },
     {
-      "id": "1b5dc7a9-8823-4d8c-9cb9-89cb24d6f3f8",
+      "id": "3f8d4f68-00d1-4fed-8651-debd4464121c",
       "filePath": "src\\replication\\spawn.ts",
       "fileName": "spawn.ts",
       "fileExtension": ".ts",
@@ -634,7 +634,7 @@
       "lineCount": 272
     },
     {
-      "id": "c0eb2f1d-d228-4bb9-a526-d2898b6bcae1",
+      "id": "ff6fe418-32f2-4bc2-96d3-b9d772a4af04",
       "filePath": "src\\self-mod\\audit-log.ts",
       "fileName": "audit-log.ts",
       "fileExtension": ".ts",
@@ -655,7 +655,7 @@
       "lineCount": 79
     },
     {
-      "id": "04579532-8a66-4523-a678-aa8419d72b22",
+      "id": "fe225989-880e-4c44-9f37-c3552902fc5b",
       "filePath": "src\\self-mod\\code.ts",
       "fileName": "code.ts",
       "fileExtension": ".ts",
@@ -677,7 +677,7 @@
       "lineCount": 374
     },
     {
-      "id": "79f18b73-c9fe-4b0c-a75c-8b56e9766997",
+      "id": "2ded8892-4896-4ef7-bf83-a82dc439fe05",
       "filePath": "src\\self-mod\\tools-manager.ts",
       "fileName": "tools-manager.ts",
       "fileExtension": ".ts",
@@ -698,7 +698,7 @@
       "lineCount": 117
     },
     {
-      "id": "04c97e8c-5ad7-44d9-83f3-f04b5b194f53",
+      "id": "c80fdf97-5992-4e8d-93a6-e94dfc597d1c",
       "filePath": "src\\self-mod\\upstream.ts",
       "fileName": "upstream.ts",
       "fileExtension": ".ts",
@@ -719,7 +719,7 @@
       "lineCount": 83
     },
     {
-      "id": "3b8902c6-d9b2-4a35-a728-8b5f169fe8db",
+      "id": "ed397a08-4a18-4a2a-bcb5-d5bbebe5836d",
       "filePath": "src\\setup\\banner.ts",
       "fileName": "banner.ts",
       "fileExtension": ".ts",
@@ -738,7 +738,7 @@
       "lineCount": 23
     },
     {
-      "id": "ead105dd-c2cf-4c4c-8928-1d2557d96f30",
+      "id": "1f63f456-adcb-46f1-8053-d947c6423c2d",
       "filePath": "src\\setup\\defaults.ts",
       "fileName": "defaults.ts",
       "fileExtension": ".ts",
@@ -759,7 +759,7 @@
       "lineCount": 125
     },
     {
-      "id": "739b5847-6e6c-46e4-ae53-e860b460209f",
+      "id": "2f4c6e4b-58b5-4a5f-bccb-9a2736168190",
       "filePath": "src\\setup\\environment.ts",
       "fileName": "environment.ts",
       "fileExtension": ".ts",
@@ -779,7 +779,7 @@
       "lineCount": 32
     },
     {
-      "id": "8a79c935-4db9-4b0b-a1e9-6ba0da08272b",
+      "id": "815d7404-6772-4142-9a1b-385e69db93c2",
       "filePath": "src\\setup\\prompts.ts",
       "fileName": "prompts.ts",
       "fileExtension": ".ts",
@@ -799,7 +799,7 @@
       "lineCount": 77
     },
     {
-      "id": "67284c54-9520-4511-889d-84092830993e",
+      "id": "54ec0d8c-da8e-4c7d-87ec-684e779f6f1b",
       "filePath": "src\\setup\\wizard.ts",
       "fileName": "wizard.ts",
       "fileExtension": ".ts",
@@ -828,7 +828,7 @@
       "lineCount": 153
     },
     {
-      "id": "016027c8-342b-4479-bc95-5031d3e06b49",
+      "id": "6bf5247c-fe19-497c-aa92-4cf9683309ed",
       "filePath": "src\\skills\\format.ts",
       "fileName": "format.ts",
       "fileExtension": ".ts",
@@ -847,7 +847,7 @@
       "lineCount": 160
     },
     {
-      "id": "ce3754f0-0ba1-409c-ac50-87a9f981d5a1",
+      "id": "facf28a0-1225-4f67-bc19-fac8d87e7c7b",
       "filePath": "src\\skills\\loader.ts",
       "fileName": "loader.ts",
       "fileExtension": ".ts",
@@ -871,7 +871,7 @@
       "lineCount": 117
     },
     {
-      "id": "7a06e0d4-6c64-41bc-9b69-88f42ecfdbfc",
+      "id": "8f772e66-e6be-487d-abde-c6fbb7524483",
       "filePath": "src\\skills\\registry.ts",
       "fileName": "registry.ts",
       "fileExtension": ".ts",
@@ -892,7 +892,7 @@
       "lineCount": 177
     },
     {
-      "id": "daa1f68d-6568-4318-956f-a05a97ff764c",
+      "id": "3bba31c6-a096-47ef-9de4-f525184ee83f",
       "filePath": "src\\social\\client.ts",
       "fileName": "client.ts",
       "fileExtension": ".ts",
@@ -911,7 +911,7 @@
       "lineCount": 133
     },
     {
-      "id": "5cac9075-bd00-47b2-96db-68d0f93bece8",
+      "id": "8e46a5cc-a3b1-4745-9091-9b5e1afdb455",
       "filePath": "src\\state\\database.ts",
       "fileName": "database.ts",
       "fileExtension": ".ts",
@@ -933,7 +933,7 @@
       "lineCount": 632
     },
     {
-      "id": "32ea985c-a1bc-4791-b80c-79b3b23d98d7",
+      "id": "0f46f7d5-8ed9-4e0c-a294-4a2634536b20",
       "filePath": "src\\state\\schema.ts",
       "fileName": "schema.ts",
       "fileExtension": ".ts",
@@ -953,7 +953,7 @@
       "lineCount": 236
     },
     {
-      "id": "277b7afa-ba9d-4c7a-90b2-bb1c53be3d5b",
+      "id": "e1db87d6-9ffd-41df-ac67-99a491afd966",
       "filePath": "src\\survival\\funding.ts",
       "fileName": "funding.ts",
       "fileExtension": ".ts",
@@ -972,7 +972,7 @@
       "lineCount": 92
     },
     {
-      "id": "4e83d4ef-76cf-4f1f-b64c-795d5112e53b",
+      "id": "5b7a224e-35cc-4046-ae3c-340bbc124695",
       "filePath": "src\\survival\\low-compute.ts",
       "fileName": "low-compute.ts",
       "fileExtension": ".ts",
@@ -993,7 +993,7 @@
       "lineCount": 110
     },
     {
-      "id": "a20387a6-e4d6-48c2-817c-10376025338e",
+      "id": "d2a751fa-4029-4f5e-b327-46a5c2f85aab",
       "filePath": "src\\survival\\monitor.ts",
       "fileName": "monitor.ts",
       "fileExtension": ".ts",
@@ -1014,7 +1014,7 @@
       "lineCount": 97
     },
     {
-      "id": "7e21a3b6-e22c-485d-84d7-2bdf2c8d2b69",
+      "id": "7c5e2d5a-1e0f-4f7c-89d6-890a1607ac7c",
       "filePath": "src\\types.ts",
       "fileName": "types.ts",
       "fileExtension": ".ts",
@@ -1094,7 +1094,7 @@
       "lineCount": 647
     },
     {
-      "id": "13644adf-cc45-4186-b496-c26955c54539",
+      "id": "c9c80e2f-d398-4062-9503-62a002522df6",
       "filePath": "src\\__tests__\\heartbeat.test.ts",
       "fileName": "heartbeat.test.ts",
       "fileExtension": ".ts",
@@ -1113,7 +1113,7 @@
       "lineCount": 152
     },
     {
-      "id": "d4e17bbc-a748-4b8c-b945-a6cd6f9426ba",
+      "id": "29719bb4-5419-4b5a-a7a9-823fdaba1874",
       "filePath": "src\\__tests__\\loop.test.ts",
       "fileName": "loop.test.ts",
       "fileExtension": ".ts",
@@ -1132,7 +1132,7 @@
       "lineCount": 195
     },
     {
-      "id": "451f4c57-6d78-4b98-bc51-e8d137f2d356",
+      "id": "63c2989b-f603-4618-90bf-e0fbf55c75b9",
       "filePath": "src\\__tests__\\mocks.ts",
       "fileName": "mocks.ts",
       "fileExtension": ".ts",
@@ -1162,7 +1162,7 @@
       "lineCount": 281
     },
     {
-      "id": "23b908b8-95aa-4bbf-b835-b61c6b58d2b6",
+      "id": "dff78972-602c-425d-bec3-85c420fb747f",
       "filePath": "vitest.config.ts",
       "fileName": "vitest.config.ts",
       "fileExtension": ".ts",
@@ -1182,7 +1182,7 @@
   "knowledgeGraph": {
     "nodes": [
       {
-        "id": "58f53982-316d-48a1-ac1a-0b0035b6abf5",
+        "id": "832e9dd4-6561-43ec-bbca-4fb32105ef4e",
         "label": "fund.ts",
         "type": "file",
         "metadata": {
@@ -1191,7 +1191,7 @@
         }
       },
       {
-        "id": "2b5ad877-962b-4598-87f9-8963e414e2e7",
+        "id": "d1025350-cfa8-4eef-8fb9-9ba52c9bb52b",
         "label": "logs.ts",
         "type": "file",
         "metadata": {
@@ -1200,7 +1200,7 @@
         }
       },
       {
-        "id": "a4608e4b-1cb5-4795-b160-99ef37084c8a",
+        "id": "4164ffb4-8c05-4413-afec-0cc1bf238dee",
         "label": "send.ts",
         "type": "file",
         "metadata": {
@@ -1209,7 +1209,7 @@
         }
       },
       {
-        "id": "31a5f378-266b-4d75-9157-9f56e76f8f9b",
+        "id": "d83507d4-6079-420e-ad31-d9f56012f3c2",
         "label": "status.ts",
         "type": "file",
         "metadata": {
@@ -1218,7 +1218,7 @@
         }
       },
       {
-        "id": "007e6d89-f112-4940-8634-e8030c9fa4b7",
+        "id": "c65ff4fc-c62e-4e0c-9260-6d4c60b6ebfb",
         "label": "index.ts",
         "type": "file",
         "metadata": {
@@ -1227,7 +1227,7 @@
         }
       },
       {
-        "id": "f549eb2d-c89b-4d94-9c23-84d764c8a415",
+        "id": "f9fc729d-c127-4f4e-983a-416210dbe239",
         "label": "node-shims.d.ts",
         "type": "file",
         "metadata": {
@@ -1236,7 +1236,7 @@
         }
       },
       {
-        "id": "eef260f9-09ce-4803-9527-a31ebc2834d7",
+        "id": "28beac8b-3161-4478-8503-40caba7296c7",
         "label": "runtime-shims.d.ts",
         "type": "file",
         "metadata": {
@@ -1245,7 +1245,7 @@
         }
       },
       {
-        "id": "a146fea5-4a44-479a-8f69-32c34d099636",
+        "id": "4210deed-9557-4e3e-8008-c9c2c6562f0d",
         "label": "context.ts",
         "type": "file",
         "metadata": {
@@ -1254,7 +1254,7 @@
         }
       },
       {
-        "id": "72c844e4-c449-49b5-976c-cc7ca275a650",
+        "id": "c970cef6-180f-405d-a1aa-fb1e5a57f6fa",
         "label": "injection-defense.ts",
         "type": "file",
         "metadata": {
@@ -1263,7 +1263,7 @@
         }
       },
       {
-        "id": "7bf6af24-5ee1-4a4a-bfa2-95211f097212",
+        "id": "fd0001f8-20a9-4f8d-98b0-7b3a4c5cbe68",
         "label": "loop.ts",
         "type": "file",
         "metadata": {
@@ -1272,7 +1272,7 @@
         }
       },
       {
-        "id": "13069db8-1509-40dc-b0a5-d2b15c29d2ce",
+        "id": "a4e1302c-46b7-4a14-a13b-bf77a0988b7e",
         "label": "system-prompt.ts",
         "type": "file",
         "metadata": {
@@ -1281,7 +1281,7 @@
         }
       },
       {
-        "id": "72aa5600-bd99-4fb9-a77a-a819c43de97c",
+        "id": "3e03ad42-874d-43ad-b183-fd5e6cfdaca4",
         "label": "tools.ts",
         "type": "file",
         "metadata": {
@@ -1290,7 +1290,7 @@
         }
       },
       {
-        "id": "f649011b-e891-4ce9-a5e8-a800f79e5bf4",
+        "id": "f97691cb-a06a-414b-b935-abe272447f06",
         "label": "config.ts",
         "type": "file",
         "metadata": {
@@ -1299,7 +1299,7 @@
         }
       },
       {
-        "id": "61a0d9e0-856f-477d-935d-f8a68e96d262",
+        "id": "d7a9cc4d-3d0b-47e0-8688-124009ce290e",
         "label": "client.ts",
         "type": "file",
         "metadata": {
@@ -1308,7 +1308,7 @@
         }
       },
       {
-        "id": "9db9e987-1f5b-4a8e-a10a-77e9d21b908d",
+        "id": "81e25493-644e-4278-9b6c-969f77c561f9",
         "label": "credits.ts",
         "type": "file",
         "metadata": {
@@ -1317,7 +1317,7 @@
         }
       },
       {
-        "id": "4a2ba872-49b7-4712-a44a-7aceb2f1aaaa",
+        "id": "99b1717f-46dc-4de7-aaf9-fff846700725",
         "label": "inference.ts",
         "type": "file",
         "metadata": {
@@ -1326,7 +1326,7 @@
         }
       },
       {
-        "id": "56381fdc-e039-484c-9d54-6ab56aaeb114",
+        "id": "31e0dccf-e389-4844-a135-94cf9552eb4a",
         "label": "x402.ts",
         "type": "file",
         "metadata": {
@@ -1335,7 +1335,7 @@
         }
       },
       {
-        "id": "493c9d02-44d6-4c8e-997a-725ba9275c73",
+        "id": "967e50b0-8733-49ee-a557-688af798e157",
         "label": "state-versioning.ts",
         "type": "file",
         "metadata": {
@@ -1344,7 +1344,7 @@
         }
       },
       {
-        "id": "90881a37-583d-49e0-9303-17978aa43a47",
+        "id": "cebe1a98-64e3-4607-81d0-cde4eb411924",
         "label": "tools.ts",
         "type": "file",
         "metadata": {
@@ -1353,7 +1353,7 @@
         }
       },
       {
-        "id": "f926ecb9-1a32-4b81-a855-47824b4139a8",
+        "id": "30ff074d-3f09-49c5-bb22-266cc244bbba",
         "label": "config.ts",
         "type": "file",
         "metadata": {
@@ -1362,7 +1362,7 @@
         }
       },
       {
-        "id": "9b7694e6-7a92-4241-a704-3414ef83c5db",
+        "id": "60e7fe11-1edb-4f6d-98fa-77b64c7105f0",
         "label": "daemon.ts",
         "type": "file",
         "metadata": {
@@ -1371,7 +1371,7 @@
         }
       },
       {
-        "id": "b4ad2ec7-f4d4-44b4-9c7f-a83eb0f15d49",
+        "id": "d4ae2347-5f15-45b9-a043-ba984d390566",
         "label": "tasks.ts",
         "type": "file",
         "metadata": {
@@ -1380,7 +1380,7 @@
         }
       },
       {
-        "id": "6ddc43ae-9a02-4856-8ff9-0ad0aae747f8",
+        "id": "784d463a-7482-4221-bf7c-47db667237f8",
         "label": "provision.ts",
         "type": "file",
         "metadata": {
@@ -1389,7 +1389,7 @@
         }
       },
       {
-        "id": "a148f0b4-8bc3-4e36-bd02-3dc9655d7dad",
+        "id": "7f4b6dce-240b-4d88-b60a-efec1e95175d",
         "label": "wallet.ts",
         "type": "file",
         "metadata": {
@@ -1398,7 +1398,7 @@
         }
       },
       {
-        "id": "91b4e7e2-e1c5-4c14-86eb-de5a9b01334f",
+        "id": "674f4a65-dfa0-43ae-81c6-a6e2d1143849",
         "label": "index.ts",
         "type": "file",
         "metadata": {
@@ -1407,7 +1407,7 @@
         }
       },
       {
-        "id": "f85d7682-9d23-4f8f-a900-65b669e29198",
+        "id": "bfc9b39c-2c11-4780-882f-c61f878ca245",
         "label": "agent-card.ts",
         "type": "file",
         "metadata": {
@@ -1416,7 +1416,7 @@
         }
       },
       {
-        "id": "eed573e0-f344-467d-8a52-3445a605d4d3",
+        "id": "d52cb911-94ba-4708-91bc-0ec9f475d310",
         "label": "discovery.ts",
         "type": "file",
         "metadata": {
@@ -1425,7 +1425,7 @@
         }
       },
       {
-        "id": "ee5ba932-6cfa-46fe-a889-cbdddc4541f5",
+        "id": "d74e5c21-6901-47f9-80b2-bf8f03c44145",
         "label": "erc8004.ts",
         "type": "file",
         "metadata": {
@@ -1434,7 +1434,7 @@
         }
       },
       {
-        "id": "60a37ecb-67a9-4e76-a3d8-d30fe5d932bc",
+        "id": "b17fe111-98fc-4265-8b86-58485c628797",
         "label": "genesis.ts",
         "type": "file",
         "metadata": {
@@ -1443,7 +1443,7 @@
         }
       },
       {
-        "id": "05fb345c-d148-43d1-82da-f534856d0c3e",
+        "id": "cabac84b-3fbe-4b73-9f9c-3cb9329921c6",
         "label": "lineage.ts",
         "type": "file",
         "metadata": {
@@ -1452,7 +1452,7 @@
         }
       },
       {
-        "id": "1b5dc7a9-8823-4d8c-9cb9-89cb24d6f3f8",
+        "id": "3f8d4f68-00d1-4fed-8651-debd4464121c",
         "label": "spawn.ts",
         "type": "file",
         "metadata": {
@@ -1461,7 +1461,7 @@
         }
       },
       {
-        "id": "c0eb2f1d-d228-4bb9-a526-d2898b6bcae1",
+        "id": "ff6fe418-32f2-4bc2-96d3-b9d772a4af04",
         "label": "audit-log.ts",
         "type": "file",
         "metadata": {
@@ -1470,7 +1470,7 @@
         }
       },
       {
-        "id": "04579532-8a66-4523-a678-aa8419d72b22",
+        "id": "fe225989-880e-4c44-9f37-c3552902fc5b",
         "label": "code.ts",
         "type": "file",
         "metadata": {
@@ -1479,7 +1479,7 @@
         }
       },
       {
-        "id": "79f18b73-c9fe-4b0c-a75c-8b56e9766997",
+        "id": "2ded8892-4896-4ef7-bf83-a82dc439fe05",
         "label": "tools-manager.ts",
         "type": "file",
         "metadata": {
@@ -1488,7 +1488,7 @@
         }
       },
       {
-        "id": "04c97e8c-5ad7-44d9-83f3-f04b5b194f53",
+        "id": "c80fdf97-5992-4e8d-93a6-e94dfc597d1c",
         "label": "upstream.ts",
         "type": "file",
         "metadata": {
@@ -1497,7 +1497,7 @@
         }
       },
       {
-        "id": "3b8902c6-d9b2-4a35-a728-8b5f169fe8db",
+        "id": "ed397a08-4a18-4a2a-bcb5-d5bbebe5836d",
         "label": "banner.ts",
         "type": "file",
         "metadata": {
@@ -1506,7 +1506,7 @@
         }
       },
       {
-        "id": "ead105dd-c2cf-4c4c-8928-1d2557d96f30",
+        "id": "1f63f456-adcb-46f1-8053-d947c6423c2d",
         "label": "defaults.ts",
         "type": "file",
         "metadata": {
@@ -1515,7 +1515,7 @@
         }
       },
       {
-        "id": "739b5847-6e6c-46e4-ae53-e860b460209f",
+        "id": "2f4c6e4b-58b5-4a5f-bccb-9a2736168190",
         "label": "environment.ts",
         "type": "file",
         "metadata": {
@@ -1524,7 +1524,7 @@
         }
       },
       {
-        "id": "8a79c935-4db9-4b0b-a1e9-6ba0da08272b",
+        "id": "815d7404-6772-4142-9a1b-385e69db93c2",
         "label": "prompts.ts",
         "type": "file",
         "metadata": {
@@ -1533,7 +1533,7 @@
         }
       },
       {
-        "id": "67284c54-9520-4511-889d-84092830993e",
+        "id": "54ec0d8c-da8e-4c7d-87ec-684e779f6f1b",
         "label": "wizard.ts",
         "type": "file",
         "metadata": {
@@ -1542,7 +1542,7 @@
         }
       },
       {
-        "id": "016027c8-342b-4479-bc95-5031d3e06b49",
+        "id": "6bf5247c-fe19-497c-aa92-4cf9683309ed",
         "label": "format.ts",
         "type": "file",
         "metadata": {
@@ -1551,7 +1551,7 @@
         }
       },
       {
-        "id": "ce3754f0-0ba1-409c-ac50-87a9f981d5a1",
+        "id": "facf28a0-1225-4f67-bc19-fac8d87e7c7b",
         "label": "loader.ts",
         "type": "file",
         "metadata": {
@@ -1560,7 +1560,7 @@
         }
       },
       {
-        "id": "7a06e0d4-6c64-41bc-9b69-88f42ecfdbfc",
+        "id": "8f772e66-e6be-487d-abde-c6fbb7524483",
         "label": "registry.ts",
         "type": "file",
         "metadata": {
@@ -1569,7 +1569,7 @@
         }
       },
       {
-        "id": "daa1f68d-6568-4318-956f-a05a97ff764c",
+        "id": "3bba31c6-a096-47ef-9de4-f525184ee83f",
         "label": "client.ts",
         "type": "file",
         "metadata": {
@@ -1578,7 +1578,7 @@
         }
       },
       {
-        "id": "5cac9075-bd00-47b2-96db-68d0f93bece8",
+        "id": "8e46a5cc-a3b1-4745-9091-9b5e1afdb455",
         "label": "database.ts",
         "type": "file",
         "metadata": {
@@ -1587,7 +1587,7 @@
         }
       },
       {
-        "id": "32ea985c-a1bc-4791-b80c-79b3b23d98d7",
+        "id": "0f46f7d5-8ed9-4e0c-a294-4a2634536b20",
         "label": "schema.ts",
         "type": "file",
         "metadata": {
@@ -1596,7 +1596,7 @@
         }
       },
       {
-        "id": "277b7afa-ba9d-4c7a-90b2-bb1c53be3d5b",
+        "id": "e1db87d6-9ffd-41df-ac67-99a491afd966",
         "label": "funding.ts",
         "type": "file",
         "metadata": {
@@ -1605,7 +1605,7 @@
         }
       },
       {
-        "id": "4e83d4ef-76cf-4f1f-b64c-795d5112e53b",
+        "id": "5b7a224e-35cc-4046-ae3c-340bbc124695",
         "label": "low-compute.ts",
         "type": "file",
         "metadata": {
@@ -1614,7 +1614,7 @@
         }
       },
       {
-        "id": "a20387a6-e4d6-48c2-817c-10376025338e",
+        "id": "d2a751fa-4029-4f5e-b327-46a5c2f85aab",
         "label": "monitor.ts",
         "type": "file",
         "metadata": {
@@ -1623,7 +1623,7 @@
         }
       },
       {
-        "id": "7e21a3b6-e22c-485d-84d7-2bdf2c8d2b69",
+        "id": "7c5e2d5a-1e0f-4f7c-89d6-890a1607ac7c",
         "label": "types.ts",
         "type": "file",
         "metadata": {
@@ -1632,7 +1632,7 @@
         }
       },
       {
-        "id": "13644adf-cc45-4186-b496-c26955c54539",
+        "id": "c9c80e2f-d398-4062-9503-62a002522df6",
         "label": "heartbeat.test.ts",
         "type": "file",
         "metadata": {
@@ -1641,7 +1641,7 @@
         }
       },
       {
-        "id": "d4e17bbc-a748-4b8c-b945-a6cd6f9426ba",
+        "id": "29719bb4-5419-4b5a-a7a9-823fdaba1874",
         "label": "loop.test.ts",
         "type": "file",
         "metadata": {
@@ -1650,7 +1650,7 @@
         }
       },
       {
-        "id": "451f4c57-6d78-4b98-bc51-e8d137f2d356",
+        "id": "63c2989b-f603-4618-90bf-e0fbf55c75b9",
         "label": "mocks.ts",
         "type": "file",
         "metadata": {
@@ -1659,7 +1659,7 @@
         }
       },
       {
-        "id": "23b908b8-95aa-4bbf-b835-b61c6b58d2b6",
+        "id": "dff78972-602c-425d-bec3-85c420fb747f",
         "label": "vitest.config.ts",
         "type": "file",
         "metadata": {
@@ -1670,78 +1670,78 @@
     ],
     "edges": [
       {
-        "source": "7bf6af24-5ee1-4a4a-bfa2-95211f097212",
-        "target": "a146fea5-4a44-479a-8f69-32c34d099636",
+        "source": "fd0001f8-20a9-4f8d-98b0-7b3a4c5cbe68",
+        "target": "4210deed-9557-4e3e-8008-c9c2c6562f0d",
         "relation": "imports"
       },
       {
-        "source": "493c9d02-44d6-4c8e-997a-725ba9275c73",
-        "target": "72aa5600-bd99-4fb9-a77a-a819c43de97c",
+        "source": "967e50b0-8733-49ee-a557-688af798e157",
+        "target": "3e03ad42-874d-43ad-b183-fd5e6cfdaca4",
         "relation": "imports"
       },
       {
-        "source": "91b4e7e2-e1c5-4c14-86eb-de5a9b01334f",
-        "target": "f649011b-e891-4ce9-a5e8-a800f79e5bf4",
+        "source": "674f4a65-dfa0-43ae-81c6-a6e2d1143849",
+        "target": "f97691cb-a06a-414b-b935-abe272447f06",
         "relation": "imports"
       },
       {
-        "source": "04579532-8a66-4523-a678-aa8419d72b22",
-        "target": "c0eb2f1d-d228-4bb9-a526-d2898b6bcae1",
+        "source": "fe225989-880e-4c44-9f37-c3552902fc5b",
+        "target": "ff6fe418-32f2-4bc2-96d3-b9d772a4af04",
         "relation": "imports"
       },
       {
-        "source": "79f18b73-c9fe-4b0c-a75c-8b56e9766997",
-        "target": "c0eb2f1d-d228-4bb9-a526-d2898b6bcae1",
+        "source": "2ded8892-4896-4ef7-bf83-a82dc439fe05",
+        "target": "ff6fe418-32f2-4bc2-96d3-b9d772a4af04",
         "relation": "imports"
       },
       {
-        "source": "67284c54-9520-4511-889d-84092830993e",
-        "target": "f649011b-e891-4ce9-a5e8-a800f79e5bf4",
+        "source": "54ec0d8c-da8e-4c7d-87ec-684e779f6f1b",
+        "target": "f97691cb-a06a-414b-b935-abe272447f06",
         "relation": "imports"
       },
       {
-        "source": "67284c54-9520-4511-889d-84092830993e",
-        "target": "3b8902c6-d9b2-4a35-a728-8b5f169fe8db",
+        "source": "54ec0d8c-da8e-4c7d-87ec-684e779f6f1b",
+        "target": "ed397a08-4a18-4a2a-bcb5-d5bbebe5836d",
         "relation": "imports"
       },
       {
-        "source": "67284c54-9520-4511-889d-84092830993e",
-        "target": "8a79c935-4db9-4b0b-a1e9-6ba0da08272b",
+        "source": "54ec0d8c-da8e-4c7d-87ec-684e779f6f1b",
+        "target": "815d7404-6772-4142-9a1b-385e69db93c2",
         "relation": "imports"
       },
       {
-        "source": "67284c54-9520-4511-889d-84092830993e",
-        "target": "739b5847-6e6c-46e4-ae53-e860b460209f",
+        "source": "54ec0d8c-da8e-4c7d-87ec-684e779f6f1b",
+        "target": "2f4c6e4b-58b5-4a5f-bccb-9a2736168190",
         "relation": "imports"
       },
       {
-        "source": "67284c54-9520-4511-889d-84092830993e",
-        "target": "ead105dd-c2cf-4c4c-8928-1d2557d96f30",
+        "source": "54ec0d8c-da8e-4c7d-87ec-684e779f6f1b",
+        "target": "1f63f456-adcb-46f1-8053-d947c6423c2d",
         "relation": "imports"
       },
       {
-        "source": "ce3754f0-0ba1-409c-ac50-87a9f981d5a1",
-        "target": "016027c8-342b-4479-bc95-5031d3e06b49",
+        "source": "facf28a0-1225-4f67-bc19-fac8d87e7c7b",
+        "target": "6bf5247c-fe19-497c-aa92-4cf9683309ed",
         "relation": "imports"
       },
       {
-        "source": "7a06e0d4-6c64-41bc-9b69-88f42ecfdbfc",
-        "target": "016027c8-342b-4479-bc95-5031d3e06b49",
+        "source": "8f772e66-e6be-487d-abde-c6fbb7524483",
+        "target": "6bf5247c-fe19-497c-aa92-4cf9683309ed",
         "relation": "imports"
       },
       {
-        "source": "13644adf-cc45-4186-b496-c26955c54539",
-        "target": "7e21a3b6-e22c-485d-84d7-2bdf2c8d2b69",
+        "source": "c9c80e2f-d398-4062-9503-62a002522df6",
+        "target": "7c5e2d5a-1e0f-4f7c-89d6-890a1607ac7c",
         "relation": "imports"
       },
       {
-        "source": "d4e17bbc-a748-4b8c-b945-a6cd6f9426ba",
-        "target": "7e21a3b6-e22c-485d-84d7-2bdf2c8d2b69",
+        "source": "29719bb4-5419-4b5a-a7a9-823fdaba1874",
+        "target": "7c5e2d5a-1e0f-4f7c-89d6-890a1607ac7c",
         "relation": "imports"
       },
       {
-        "source": "451f4c57-6d78-4b98-bc51-e8d137f2d356",
-        "target": "7e21a3b6-e22c-485d-84d7-2bdf2c8d2b69",
+        "source": "63c2989b-f603-4618-90bf-e0fbf55c75b9",
+        "target": "7c5e2d5a-1e0f-4f7c-89d6-890a1607ac7c",
         "relation": "imports"
       }
     ]
