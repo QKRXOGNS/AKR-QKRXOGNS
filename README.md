@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Automaton: Self-Improving, Self-Replicating, Sovereign AI
 
 *The first AI that can earn its own existence, replicate, and evolve — without needing a human.*
@@ -149,3 +150,7 @@ scripts/
 ## License
 
 MIT
+=======
+# AKR-QKRXOGNS
+Created by Akashic Records
+>>>>>>> da7dbf0961d200cd83e10c32a6094d65ad475ec1
